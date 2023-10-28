@@ -10,6 +10,8 @@ const App = () => {
     <div>
       <Navbar />
       <Hero />
+      <HeadlineCards />
+      <Food />
       <Footer />
     </div>
   )
